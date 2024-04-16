@@ -1,16 +1,11 @@
 {
-  "name": "viking",
-  "private": true,
-  "version": "0.0.0",
-  "type": "module",
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "test": "vitest"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "devDependencies": {
-    "@types/node": "^20.10.4",
-    "typescript": "^5.4.5",
-    "vite": "^5.0.0",
-    "vite-tsconfig-paths": "^4.2.2",
-    "vitest": "^1.0.4"
-  }
+  "author": "",
+  "license": "ISC"
 }
